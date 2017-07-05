@@ -1,10 +1,11 @@
 
+
 #example {
 	width:500px;
 	height:280px;
 	text-decoration:none;
 	position:relative;
-	
+
 }
 
 #ribbon {
@@ -64,8 +65,8 @@
 .pagination {
 	width:280px;
 	height:10px;
-	
-	
+
+
 }
 
 .pagination li {
@@ -75,7 +76,7 @@
 }
 
 .pagination li a {
-    
+
 	display:block;
 	width:12px;
 	height:1;
@@ -112,4 +113,3 @@
 	border-top:1px solid #000;
 	text-shadow:none;
 }
-

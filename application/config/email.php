@@ -1,4 +1,4 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); 
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*
 | -------------------------------------------------------------------
 | EMAIL CONFIG
@@ -9,13 +9,13 @@
         $config['protocol']='smtp';
         $config['wordwrap'] = FALSE;
         $config['mailtype'] = 'html';
-        $config['smtp_host']='ssl://smtp.googlemail.com'; 
-        $config['smtp_port']='465'; 
-        $config['smtp_timeout']='30'; 
-        $config['smtp_user']='okkisetyawan@gmail.com'; 
-        $config['smtp_pass']='Kutoarjo_93'; 
-        $config['charset']='utf-8'; 
+        $config['smtp_host']='ssl://smtp.googlemail.com';
+        $config['smtp_port']='465';
+        $config['smtp_timeout']='30';
+        $config['smtp_user']='okkisetyawan@gmail.com';
+        $config['smtp_pass']='Injector_93'; 
+        $config['charset']='utf-8';
         $config['newline']="\r\n";
-        
-/* End of file email.php */ 
+
+/* End of file email.php */
 /* Location: ./system/application/config/email.php */
